@@ -1,0 +1,61 @@
+# .gitignore for C# Projects
+
+# Build and output files
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.log
+*.user
+*.vscode
+.vs/
+
+# Visual Studio files
+.vscode/
+*.suo
+*.sln
+*.csproj.user
+*.userprefs
+*_i.c
+*_p.c
+*.ncb
+*.sdf
+*.opensdf
+*.suo
+*.sdf
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+*.user
+*.vspid
+*.pidb
+*.log
+*.vspscc
+
+# Rider files
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
